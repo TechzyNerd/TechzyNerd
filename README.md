@@ -16,8 +16,8 @@
 
 ## 📌 Current Projects
 - Python Login System
-- Web Python Interpreter
 - TechzyNerd Portfolio Website
+- TechzyNerd youtube carear 
 
 ---
 
