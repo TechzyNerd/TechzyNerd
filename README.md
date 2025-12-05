@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm TechzyNerd!
 
-<!--
-**TechzyNerd/TechzyNerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Teenage Developer | Learning Python, Web Dev & JavaScript  
+🚀 Building projects & sharing my journey on YouTube  
+📺 YouTube: https://youtube.com/@TechzyNerd  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Python
+- HTML
+- CSS
+- JavaScript
+
+---
+
+## 📌 Current Projects
+- Python Login System
+- Web Python Interpreter
+- TechzyNerd Portfolio Website
+
+---
+
+## 🔥 Goals
+- Become a full-stack developer
+- Launch my own apps
+- Grow TechzyNerd online brand
